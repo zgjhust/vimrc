@@ -53,6 +53,12 @@ vim-yankstack https://github.com/maxbrunsfeld/vim-yankstack
 lightline.vim https://github.com/itchyny/lightline.vim
 tpope-vim-abolish https://github.com/tpope/tpope-vim-abolish
 mru.vim https://github.com/vim-scripts/mru.vim
+vim-multiple-cursors https://github.com/terryma/vim-multiple-cursors.git
+emmet-vim https://github.com/mattn/emmet-vim.git
+JavaScript-Indent https://github.com/vim-scripts/JavaScript-Indent.git
+javascript-libraries-syntax.vim https://github.com/othree/javascript-libraries-syntax.vim.git
+vim-javascript-syntax https://github.com/jelera/vim-javascript-syntax.git
+tern_for_vim https://github.com/ternjs/tern_for_vim.git
 """.strip()
 
 GITHUB_ZIP = '%s/archive/master.zip'
